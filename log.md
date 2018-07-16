@@ -11,6 +11,6 @@
 ### Day 1: July 15, 2018
 **Today's Progress**: Made a mock login page for a social network for cats - catty.
 
-**Thoughts:** I am happy with the way the login page came out although there seems to be a issues with positioning.
+**Thoughts:** I am happy with the way the login page came out although there seems to be issues with positioning.
 
 **Link to work:** https://codepen.io/samirashoi/pen/JBGNvP 
